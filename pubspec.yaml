@@ -1,0 +1,9 @@
+name: conjure
+description: Connect your models to UI better.
+version: 1.0.0
+repository: https://github.com/ArcaneArts/conjure
+environment:
+  sdk: ^3.5.2
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.8
