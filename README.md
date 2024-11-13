@@ -2,9 +2,6 @@ Conjure simply lets you expose properties of a data model class for easy buildin
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
-
 ```dart
 import 'package:conjure/conjure.dart';
 
